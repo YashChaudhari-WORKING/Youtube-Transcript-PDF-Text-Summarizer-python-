@@ -1,6 +1,6 @@
 
 
-# Multi-Application Summarizer
+# Youtube Transcript , pdf , text summarizer
 
 ## Introduction
 
